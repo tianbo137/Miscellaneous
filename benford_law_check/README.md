@@ -5,12 +5,12 @@ A remarkable phenomenon in probability theory is that of universality, that many
 _**Benford's law: for {d = 1,...,9}, the probability of X with first digit d is approximately**_:
 
 <p align="center">
-  <img src="https://github.com/tianbo137/Miscellaneous/blob/main/benford_law_check/26461e7841d135d327aa7d0f914236862e890e7b.png">
+  <img src="https://github.com/tianbo137/Miscellaneous/blob/main/benford_law_check/img/26461e7841d135d327aa7d0f914236862e890e7b.png">
 </p>
 
 For instance, {X} should have a first digit of 1 about 30.1% of the time, but a first digit of 9 only about 5% of the time, see the following:
 <p align="center">
-  <img src="https://github.com/tianbo137/Miscellaneous/blob/main/benford_law_check/0*aEKtSyYHDtAZ5Crq.gif">
+  <img src="https://github.com/tianbo137/Miscellaneous/blob/main/benford_law_check/img/0*aEKtSyYHDtAZ5Crq.gif">
 </p>
 
 Of course, in order for Benford's law to be valid, the following assumptions should be satisfied:
